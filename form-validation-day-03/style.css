@@ -8,9 +8,9 @@ body {
   font-family: 'Poppins', sans-serif;
   background-color: #f1f5f9;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  justify-content: enter;
+  align-items: enter;
+  height: 500vh;
 }
 
 .form-container {
